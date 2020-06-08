@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [只是后来](http://www.lmlx66.top/articles/2020/06/08/1591593743310.html)
 * [搭建物理服务器的一次尝试](http://www.lmlx66.top/articles/2020/06/07/1591541419201.html)
 * [如何优雅的白嫖光速图床](http://www.lmlx66.top/articles/2020/06/06/1591437220179.html)
 * [windows中使用ssh（powershell）](http://www.lmlx66.top/articles/2020/06/05/1591327497139.html)
