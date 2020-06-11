@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [电脑配置](http://www.lmlx66.top/articles/2020/06/11/1591885880542.html)
 * [家庭数字中枢系统研究](http://www.lmlx66.top/articles/2020/06/10/1591756024186.html)
 * [真*手账__2020](http://www.lmlx66.top/articles/2020/06/09/1591708469962.html)
 * [只是后来](http://www.lmlx66.top/articles/2020/06/08/1591593743310.html)
