@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java多线程](http://www.lmlx66.top/articles/2020/07/13/1594642549203.html)
 * [JavaGUI](http://www.lmlx66.top/articles/2020/07/11/1594451206834.html)
 * [07Java异常](http://www.lmlx66.top/articles/2020/07/07/1594113181685.html)
 * [06Java面向对象3](http://www.lmlx66.top/articles/2020/07/07/1594093515520.html)
@@ -29,11 +30,11 @@
 * [基于hugo搭建博客并推送至github](http://www.lmlx66.top/articles/2020/06/04/1591259421107.html)
 * [关于博客方面的链接](http://www.lmlx66.top/articles/2020/06/04/1591259365375.html)
 * [solo博客介绍](http://www.lmlx66.top/articles/2020/06/04/1591259281333.html)
-* [git常用命令](http://www.lmlx66.top/articles/2020/06/04/1591258423585.html)
 
 ### 热门
 
 * [solo博客的搭建](http://www.lmlx66.top/articles/2020/06/04/1591257907424.html)
+* [git常用命令](http://www.lmlx66.top/articles/2020/06/04/1591258423585.html)
 
 
 
