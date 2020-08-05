@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [常用链接](http://localhost/articles/2020/08/03/1596459829642.html)
+* [前端后端与全栈](http://localhost/articles/2020/08/03/1596452876679.html)
 * [Java网络编程](http://localhost/articles/2020/07/24/1595580665272.html)
 * [Java多线程](http://localhost/articles/2020/07/13/1594642549203.html)
 * [JavaGUI](http://localhost/articles/2020/07/11/1594451206834.html)
@@ -28,8 +30,6 @@
 * [windows中使用ssh（powershell）](http://localhost/articles/2020/06/05/1591327497139.html)
 * [我在 GitHub 上的开源项目](http://localhost/my-github-repos)
 * [生活总是要继续的with2020](http://localhost/articles/2020/06/04/1591283012058.html)
-* [基于hugo搭建博客并推送至github](http://localhost/articles/2020/06/04/1591259421107.html)
-* [关于博客方面的链接](http://localhost/articles/2020/06/04/1591259365375.html)
 
 
 
