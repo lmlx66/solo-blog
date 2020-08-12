@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Git](http://localhost/articles/2020/08/11/1597145313103.html)
 * [常用链接](http://localhost/articles/2020/08/03/1596459829642.html)
 * [前端后端与全栈](http://localhost/articles/2020/08/03/1596452876679.html)
 * [Java网络编程](http://localhost/articles/2020/07/24/1595580665272.html)
@@ -29,7 +30,6 @@
 * [如何优雅的白嫖光速图床](http://localhost/articles/2020/06/06/1591437220179.html)
 * [windows中使用ssh（powershell）](http://localhost/articles/2020/06/05/1591327497139.html)
 * [我在 GitHub 上的开源项目](http://localhost/my-github-repos)
-* [生活总是要继续的with2020](http://localhost/articles/2020/06/04/1591283012058.html)
 
 
 
